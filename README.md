@@ -1,11 +1,15 @@
-# dmgleichman.github.io
-Doug Gleichman GitHub Website
-Last update 4/12/21
+# Doug Gleichman GitHub Website
 
-New update on 4/18/21
+Update 4/18/21
 
-# All Markdown
+# About Me
 
-Ain't it great
+I am an Engineer with experience in Hardware and Software Design and an expert in 
+Real-Time C programming and Digital Signal Processing.
 
+I like to make GUI's with Labwindows/CVI.
+
+# Interests
+
+I am interested in the Rust and Julia Languages.
 
